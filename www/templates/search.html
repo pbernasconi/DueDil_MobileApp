@@ -1,0 +1,32 @@
+<ion-view title="Search DueDil Companies">
+  <ion-content has-tabs="true">
+
+    <div class="list list-inset">
+      <label class="item item-input">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="text" placeholder="Search" ng-model="query" ng-change="search(query)">
+      </label>
+    </div>
+
+    <img class="ionic-logo" ng-hide="status" src="img/duedil_Icon.png" style="margin-top: 300px !important;"  animation="slide-in-up">
+
+    <ion-list ng-show="status == 200">
+      <div class="item item-divider">
+        <small>Results</small>
+      </div>
+
+      <ion-item ng-repeat="company in companies.response.data" type="item-text-wrap" href="#/tab/search/{{company.company_number}}">
+        <h3>{{company.name}}</h3>
+        <p>{{company.company_number}}</p>
+      </ion-item>
+
+    </ion-list>
+
+    <div class="card" ng-show="status == 404 || status == 403">
+      <div class="item item-text-wrap">
+       No matching companies found
+      </div>
+    </div>
+
+  </ion-content>
+</ion-view>

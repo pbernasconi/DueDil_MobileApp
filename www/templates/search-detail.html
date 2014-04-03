@@ -1,0 +1,44 @@
+
+<ion-view title="Search Results">
+
+  <ion-content has-tabs="true" has-footer="true">
+
+    <div class="list card">
+      <div class="item item-body">
+        <h1 style="margin-top: 0;">{{company.name_formatted}}</h1>
+        <p>Company Number: <strong>{{company.company_number}}</strong></p>
+      </div>
+
+      <div class="item item-body">
+        <h3 style="margin-top: 0;">Registered Address</h3>
+        <p style="margin: 0;">{{company.registered_address.full_address[0]}}</p>
+        <p style="margin: 0;">{{company.registered_address.full_address[1]}}</p>
+        <p style="margin: 0;">{{company.registered_address.full_address[2]}}</p>
+        <p style="margin: 0;">{{company.registered_address.full_address[3]}}</p>
+        <p style="margin: 0;">{{company.postcode}}</p>
+        <p style="margin: 0;">{{company.locale}}</p>
+      </div>
+
+      <div class="item item-body">
+        <h3 style="margin-top: 0;">Details</h3>
+        <p style="margin: 0;">Comp Type: {{company.category}}</p>
+        <p style="margin: 0;">Status: {{company.status}}</p>
+        <p style="margin: 0;">SIC: {{company.sic_codes[0].code}}</p>
+        <p style="margin: 0;">Desc.: {{company.sic_codes[0].description}}</p>
+        <p style="margin: 0;">Type: {{company.sic_codes[0].type}}</p>
+        <p style="margin: 0;">Incorporated: {{company.incorporation_date}}</p>
+      </div>
+
+      <a class="item item-icon-left assertive" href="{{company.duedil_url}}">
+        <i class="icon ion-navigate"></i>
+        View on DueDil
+      </a>
+
+
+
+    </div>
+
+    <br>
+
+  </ion-content>
+</ion-view>
