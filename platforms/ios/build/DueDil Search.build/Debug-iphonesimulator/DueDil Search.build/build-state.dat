@@ -1,0 +1,816 @@
+TDueDil Search
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/Info.plist /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/DueDil\ Search-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh
+cCpResource DueDil\ Search/Resources/icons/icon-76.png build/emulator/DueDil\ Search.app/icon-76.png
+cCpResource DueDil\ Search/Resources/icons/icon-40@2x.png build/emulator/DueDil\ Search.app/icon-40@2x.png
+cCpResource DueDil\ Search/Resources/icons/icon-72.png build/emulator/DueDil\ Search.app/icon-72.png
+cCpResource DueDil\ Search/Resources/icons/icon.png build/emulator/DueDil\ Search.app/icon.png
+cCpResource DueDil\ Search/Resources/icons/icon@2x.png build/emulator/DueDil\ Search.app/icon@2x.png
+cCopyStringsFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/en.lproj/Localizable.strings DueDil\ Search/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/MainViewController.xib
+cCpResource DueDil\ Search/Resources/icons/icon-50.png build/emulator/DueDil\ Search.app/icon-50.png
+cCpResource DueDil\ Search/Resources/icons/icon-60@2x.png build/emulator/DueDil\ Search.app/icon-60@2x.png
+cCopyStringsFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/de.lproj/Localizable.strings DueDil\ Search/Resources/de.lproj/Localizable.strings
+cCpResource DueDil\ Search/Resources/icons/icon-small.png build/emulator/DueDil\ Search.app/icon-small.png
+cCpResource DueDil\ Search/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape@2x~ipad.png
+cCpResource DueDil\ Search/Resources/splash/Default-Landscape~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape~ipad.png
+cCpResource DueDil\ Search/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait@2x~ipad.png
+cCpResource DueDil\ Search/Resources/icons/icon-small@2x.png build/emulator/DueDil\ Search.app/icon-small@2x.png
+cCpResource DueDil\ Search/Resources/splash/Default-Portrait~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait~ipad.png
+cCpResource DueDil\ Search/Resources/icons/icon-40.png build/emulator/DueDil\ Search.app/icon-40.png
+cCpResource DueDil\ Search/Resources/splash/Default@2x~iphone.png build/emulator/DueDil\ Search.app/Default@2x~iphone.png
+cCpResource DueDil\ Search/Resources/icons/icon-60.png build/emulator/DueDil\ Search.app/icon-60.png
+cCpResource DueDil\ Search/Resources/splash/Default~iphone.png build/emulator/DueDil\ Search.app/Default~iphone.png
+cCpResource DueDil\ Search/Resources/splash/Default-568h@2x~iphone.png build/emulator/DueDil\ Search.app/Default-568h@2x~iphone.png
+cCpResource DueDil\ Search/Resources/icons/icon-50@2x.png build/emulator/DueDil\ Search.app/icon-50@2x.png
+cCpResource DueDil\ Search/Resources/icons/icon-76@2x.png build/emulator/DueDil\ Search.app/icon-76@2x.png
+cCpResource DueDil\ Search/Resources/icons/icon-72@2x.png build/emulator/DueDil\ Search.app/icon-72@2x.png
+cProcessPCH /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.pch DueDil\ Search/DueDil\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/main.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/MainViewController.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search normal i386
+cGenerateDSYMFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app.dSYM /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search
+cTouch /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533AEEDE00000000000003B4
+t1396371166
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533AEEE2000000000000019E
+t1396371170
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000533AEEE20000000000059340
+t1396371170
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533AEEE30000000000446820
+t1396371171
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000533AEEE200000000000F1A80
+t1396371170
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000533AEEE400000000001BE790
+t1396371172
+s1828752
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/AppDelegate.m
+c00000000533E2C2100000000000013B1
+t1396583457
+s5041
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.m
+c00000000533E2C21000000000000126E
+t1396583457
+s4718
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.xib
+c00000000533E2C210000000000001759
+t1396583457
+s5977
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Info.plist
+c00000000533E2C280000000000000A16
+t1396583464
+s2582
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Prefix.pch
+c00000000533E2C2100000000000003CB
+t1396583457
+s971
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/de.lproj/Localizable.strings
+c00000000533E2C2100000000000004C0
+t1396583457
+s1216
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/en.lproj/Localizable.strings
+c00000000533E2C2100000000000004AB
+t1396583457
+s1195
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-40.png
+c00000000533E2C210000000000000FF2
+t1396583457
+s4082
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-40@2x.png
+c00000000533E2C210000000000001CF3
+t1396583457
+s7411
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-50.png
+c00000000533E2C21000000000000130A
+t1396583457
+s4874
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-50@2x.png
+c00000000533E2C21000000000000258B
+t1396583457
+s9611
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-60.png
+c00000000533E2C2100000000000016B3
+t1396583457
+s5811
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-60@2x.png
+c00000000533E2C210000000000002E94
+t1396583457
+s11924
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-72.png
+c00000000533E2C210000000000001350
+t1396583457
+s4944
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-72@2x.png
+c00000000533E2C210000000000002DBA
+t1396583457
+s11706
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-76.png
+c00000000533E2C210000000000001B71
+t1396583457
+s7025
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-76@2x.png
+c00000000533E2C210000000000003B9E
+t1396583457
+s15262
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-small.png
+c00000000533E2C210000000000000CDE
+t1396583457
+s3294
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon-small@2x.png
+c00000000533E2C2100000000000015E8
+t1396583457
+s5608
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon.png
+c00000000533E2C210000000000000F3E
+t1396583457
+s3902
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/icons/icon@2x.png
+c00000000533E2C210000000000001EBD
+t1396583457
+s7869
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/splash/Default-568h@2x~iphone.png
+c00000000533E2C2100000000000085B1
+t1396583457
+s34225
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000533E2C210000000000033D0A
+t1396583457
+s212234
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/splash/Default-Landscape~ipad.png
+c00000000533E2C2100000000000166A2
+t1396583457
+s91810
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000533E2C210000000000033F7C
+t1396583457
+s212860
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/splash/Default-Portrait~ipad.png
+c00000000533E2C210000000000016641
+t1396583457
+s91713
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/splash/Default@2x~iphone.png
+c00000000533E2C210000000000007323
+t1396583457
+s29475
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Resources/splash/Default~iphone.png
+c00000000533E2C21000000000000289A
+t1396583457
+s10394
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/main.m
+c00000000533E2C21000000000000045F
+t1396583457
+s1119
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/AppDelegate.o
+t1396583468
+s74012
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/DueDil Search.LinkFileList
+c00000000533E2C2900000000000001EC
+t1396583465
+s492
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/MainViewController.o
+t1396583468
+s50824
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/main.o
+t1396583468
+s3012
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Script-304B58A110DAC018002A0835.sh
+c00000000533E2C29000000000000002D
+t1396583465
+s45
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app
+t1396583468
+s1020
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM
+t2
+s0
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default-568h@2x~iphone.png
+t1396583466
+s34225
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default-Landscape@2x~ipad.png
+t1396583466
+s212234
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default-Landscape~ipad.png
+t1396583466
+s91810
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default-Portrait@2x~ipad.png
+t1396583466
+s212860
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default-Portrait~ipad.png
+t1396583466
+s91713
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default@2x~iphone.png
+t1396583466
+s29475
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default~iphone.png
+t1396583466
+s10394
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/DueDil Search
+t1396583468
+s281288
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Info.plist
+t1396583465
+s1296
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/MainViewController.nib
+t1396583468
+s1332
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/PkgInfo
+t2
+s0
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/de.lproj/Localizable.strings
+t1396583466
+s280
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/en.lproj/Localizable.strings
+t1396583466
+s166
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-40.png
+t1396583466
+s4082
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-40@2x.png
+t1396583466
+s7411
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-50.png
+t1396583466
+s4874
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-50@2x.png
+t1396583466
+s9611
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-60.png
+t1396583466
+s5811
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-60@2x.png
+t1396583466
+s11924
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-72.png
+t1396583466
+s4944
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-72@2x.png
+t1396583466
+s11706
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-76.png
+t1396583466
+s7025
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-76@2x.png
+t1396583466
+s15262
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-small.png
+t1396583466
+s3294
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-small@2x.png
+t1396583466
+s5608
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon.png
+t1396583466
+s3902
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon@2x.png
+t1396583466
+s7869
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/libCordova.a
+c00000000533E2C2900000000000D2CC0
+t1396583465
+s863424
+
+N/var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil Search-Prefix.pch.pch
+t1396583468
+s5374312
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb133d5a963eeb841^0b60d6a963eeb841^---0#1#1#--18"Check dependencies36"E5554FEE-5C0F-4AEF-8E6C-D66A74F37635-
+
+CCompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418276268.287393
+e418276268.355660
+r1
+xCompileC
+xbuild/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/AppDelegate.o
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/AppDelegate.m
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/AppDelegate.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/AppDelegate.m217"CompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.o DueDil\ Search/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler76a949ac63eeb841^5e125bac63eeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/Classes/AppDelegate.m0000000000000000^4381"CompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.o DueDil\ Search/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-generated-files.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-own-target-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-all-target-headers.hmap -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-project-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/UninstalledProducts/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources/i386 -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources -F/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -include /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch -MMD -MT dependencies -MF /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.dia -c /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/AppDelegate.m -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.o36"89E062D4-1DE5-4D1D-BE5B-4A50415DD3E3-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/MainViewController.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418276268.287714
+e418276268.338597
+r1
+xCompileC
+xbuild/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/MainViewController.o
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.m
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.m231"CompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/MainViewController.o DueDil\ Search/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler40c149ac63eeb841^04af56ac63eeb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/Classes/MainViewController.m0000000000000000^4423"CompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/MainViewController.o DueDil\ Search/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-generated-files.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-own-target-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-all-target-headers.hmap -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-project-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/UninstalledProducts/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources/i386 -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources -F/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -include /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch -MMD -MT dependencies -MF /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/MainViewController.dia -c /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/MainViewController.m -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/MainViewController.o36"EFBBF7E3-45F3-46C9-9A66-666F9034D055-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/main.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418276268.287154
+e418276268.313284
+r1
+xCompileC
+xbuild/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/main.o
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/main.m195"CompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/main.o DueDil\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3c9f49ac63eeb841^8a3950ac63eeb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/main.m0000000000000000^4323"CompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/main.o DueDil\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-generated-files.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-own-target-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-all-target-headers.hmap -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-project-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/UninstalledProducts/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources/i386 -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources -F/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -include /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch -MMD -MT dependencies -MF /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/main.dia -c /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/main.m -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/main.o36"4353C865-B523-4BBB-9EE1-E01DAE2C0E8F-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCompileXIB /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/MainViewController.xib
+s418276266.134817
+e418276268.057998
+r1
+xCompileXIB
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compiling /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.xib56"CompileXIB DueDil\ Search/Classes/MainViewController.xib7ec922aa63eeb841^38d90eac63eeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/Classes/MainViewController.xib0000000000000000^1204"CompileXIB DueDil\ Search/Classes/MainViewController.xib    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/MainViewController.nib /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/MainViewController.xib36"C1C1F5CA-954E-4DB8-BA23-36C480142F4A-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCopyStringsFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/de.lproj/Localizable.strings DueDil\ Search/Resources/de.lproj/Localizable.strings
+s418276266.136766
+e418276266.138387
+r1
+xCopyStringsFile
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/de.lproj/Localizable.strings
+xDueDil Search/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy DueDil Search/Resources/de.lproj/Localizable.strings132"CopyStringsFile build/emulator/DueDil\ Search.app/de.lproj/Localizable.strings DueDil\ Search/Resources/de.lproj/Localizable.strings221823aa63eeb841^257423aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/Resources/de.lproj/Localizable.strings0000000000000000^1000"CopyStringsFile build/emulator/DueDil\ Search.app/de.lproj/Localizable.strings DueDil\ Search/Resources/de.lproj/Localizable.strings    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/de.lproj -- DueDil\ Search/Resources/de.lproj/Localizable.strings36"8AD5F17F-6DE8-428A-95EF-515BC5020CE4-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCopyStringsFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/en.lproj/Localizable.strings DueDil\ Search/Resources/en.lproj/Localizable.strings
+s418276266.134409
+e418276266.136692
+r1
+xCopyStringsFile
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/en.lproj/Localizable.strings
+xDueDil Search/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy DueDil Search/Resources/en.lproj/Localizable.strings132"CopyStringsFile build/emulator/DueDil\ Search.app/en.lproj/Localizable.strings DueDil\ Search/Resources/en.lproj/Localizable.stringsea9522aa63eeb841^b5fe22aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/Resources/en.lproj/Localizable.strings0000000000000000^1000"CopyStringsFile build/emulator/DueDil\ Search.app/en.lproj/Localizable.strings DueDil\ Search/Resources/en.lproj/Localizable.strings    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/en.lproj -- DueDil\ Search/Resources/en.lproj/Localizable.strings36"D8081FF3-2F33-4709-85D7-A42AB5330EE4-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-40.png build/emulator/DueDil\ Search.app/icon-40.png
+s418276266.140735
+e418276266.141732
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-40.png
+xbuild/emulator/DueDil Search.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/DueDil Search.app/icon-40.png99"CpResource DueDil\ Search/Resources/icons/icon-40.png build/emulator/DueDil\ Search.app/icon-40.png102324aa63eeb841^454924aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-40.png00348c3addffdf42^1028"CpResource DueDil\ Search/Resources/icons/icon-40.png build/emulator/DueDil\ Search.app/icon-40.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-40.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"D1E5202C-976B-4CD0-912F-D2D4900A9E1A-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-40@2x.png build/emulator/DueDil\ Search.app/icon-40@2x.png
+s418276266.131964
+e418276266.133872
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-40@2x.png
+xbuild/emulator/DueDil Search.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/DueDil Search.app/icon-40@2x.png105"CpResource DueDil\ Search/Resources/icons/icon-40@2x.png build/emulator/DueDil\ Search.app/icon-40@2x.png5ce521aa63eeb841^8b3322aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-40@2x.png00348c3addffdf42^1037"CpResource DueDil\ Search/Resources/icons/icon-40@2x.png build/emulator/DueDil\ Search.app/icon-40@2x.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-40@2x.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"D79536AF-E452-4822-9926-A8B34AC79D35-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-50.png build/emulator/DueDil\ Search.app/icon-50.png
+s418276266.135465
+e418276266.137947
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-50.png
+xbuild/emulator/DueDil Search.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/DueDil Search.app/icon-50.png99"CpResource DueDil\ Search/Resources/icons/icon-50.png build/emulator/DueDil\ Search.app/icon-50.png7ae122aa63eeb841^5e6723aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-50.png00348c3addffdf42^1028"CpResource DueDil\ Search/Resources/icons/icon-50.png build/emulator/DueDil\ Search.app/icon-50.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-50.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"9C484752-B748-446D-AA2A-9DCC6ABFEB1F-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-50@2x.png build/emulator/DueDil\ Search.app/icon-50@2x.png
+s418276266.142253
+e418276266.143861
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-50@2x.png
+xbuild/emulator/DueDil Search.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/DueDil Search.app/icon-50@2x.png105"CpResource DueDil\ Search/Resources/icons/icon-50@2x.png build/emulator/DueDil\ Search.app/icon-50@2x.png698a24aa63eeb841^cbd824aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-50@2x.png00348c3addffdf42^1037"CpResource DueDil\ Search/Resources/icons/icon-50@2x.png build/emulator/DueDil\ Search.app/icon-50@2x.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-50@2x.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"5D899E4F-F900-4592-B7C3-EEC3E3799AFC-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-60.png build/emulator/DueDil\ Search.app/icon-60.png
+s418276266.141338
+e418276266.142494
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-60.png
+xbuild/emulator/DueDil Search.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/DueDil Search.app/icon-60.png99"CpResource DueDil\ Search/Resources/icons/icon-60.png build/emulator/DueDil\ Search.app/icon-60.png944a24aa63eeb841^ee7b24aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-60.png00348c3addffdf42^1028"CpResource DueDil\ Search/Resources/icons/icon-60.png build/emulator/DueDil\ Search.app/icon-60.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-60.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"E02AB376-3718-4D35-A977-366BAAD4549E-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-60@2x.png build/emulator/DueDil\ Search.app/icon-60@2x.png
+s418276266.136039
+e418276266.138341
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-60@2x.png
+xbuild/emulator/DueDil Search.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/DueDil Search.app/icon-60@2x.png105"CpResource DueDil\ Search/Resources/icons/icon-60@2x.png build/emulator/DueDil\ Search.app/icon-60@2x.pnga62823aa63eeb841^3b6f23aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-60@2x.png00348c3addffdf42^1037"CpResource DueDil\ Search/Resources/icons/icon-60@2x.png build/emulator/DueDil\ Search.app/icon-60@2x.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-60@2x.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"9B9118D3-B925-4B51-81FF-3F3AC57DF24E-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-72.png build/emulator/DueDil\ Search.app/icon-72.png
+s418276266.132268
+e418276266.135368
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-72.png
+xbuild/emulator/DueDil Search.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/DueDil Search.app/icon-72.png99"CpResource DueDil\ Search/Resources/icons/icon-72.png build/emulator/DueDil\ Search.app/icon-72.png213c22aa63eeb841^f2b222aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-72.png00348c3addffdf42^1028"CpResource DueDil\ Search/Resources/icons/icon-72.png build/emulator/DueDil\ Search.app/icon-72.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-72.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"85BD3EFB-D729-4C81-81FD-C0AE33ABC6AB-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-72@2x.png build/emulator/DueDil\ Search.app/icon-72@2x.png
+s418276266.143245
+e418276266.144533
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-72@2x.png
+xbuild/emulator/DueDil Search.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/DueDil Search.app/icon-72@2x.png105"CpResource DueDil\ Search/Resources/icons/icon-72@2x.png build/emulator/DueDil\ Search.app/icon-72@2x.png8bc024aa63eeb841^a40025aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-72@2x.png00348c3addffdf42^1037"CpResource DueDil\ Search/Resources/icons/icon-72@2x.png build/emulator/DueDil\ Search.app/icon-72@2x.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-72@2x.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"49D359EC-89E5-49EB-B622-3E6FAA2B9448-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-76.png build/emulator/DueDil\ Search.app/icon-76.png
+s418276266.131775
+e418276266.133340
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-76.png
+xbuild/emulator/DueDil Search.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/DueDil Search.app/icon-76.png99"CpResource DueDil\ Search/Resources/icons/icon-76.png build/emulator/DueDil\ Search.app/icon-76.pnge9d421aa63eeb841^ab2422aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-76.png00348c3addffdf42^1028"CpResource DueDil\ Search/Resources/icons/icon-76.png build/emulator/DueDil\ Search.app/icon-76.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-76.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"CD159D7D-D073-417B-8FEB-2D3AA9EA26DE-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-76@2x.png build/emulator/DueDil\ Search.app/icon-76@2x.png
+s418276266.142655
+e418276266.144186
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-76@2x.png
+xbuild/emulator/DueDil Search.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/DueDil Search.app/icon-76@2x.png105"CpResource DueDil\ Search/Resources/icons/icon-76@2x.png build/emulator/DueDil\ Search.app/icon-76@2x.png72a724aa63eeb841^16fa24aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-76@2x.png00348c3addffdf42^1037"CpResource DueDil\ Search/Resources/icons/icon-76@2x.png build/emulator/DueDil\ Search.app/icon-76@2x.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-76@2x.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"253FFBC5-13FC-48A2-825F-D714701A842B-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-small.png build/emulator/DueDil\ Search.app/icon-small.png
+s418276266.138560
+e418276266.139917
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-small.png
+xbuild/emulator/DueDil Search.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/DueDil Search.app/icon-small.png105"CpResource DueDil\ Search/Resources/icons/icon-small.png build/emulator/DueDil\ Search.app/icon-small.pngb09223aa63eeb841^c0d023aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-small.png00348c3addffdf42^1037"CpResource DueDil\ Search/Resources/icons/icon-small.png build/emulator/DueDil\ Search.app/icon-small.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-small.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"F4D436DD-F7BE-48FE-A597-595F17983E71-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon-small@2x.png build/emulator/DueDil\ Search.app/icon-small@2x.png
+s418276266.139613
+e418276266.140719
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon-small@2x.png
+xbuild/emulator/DueDil Search.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/emulator/DueDil Search.app/icon-small@2x.png111"CpResource DueDil\ Search/Resources/icons/icon-small@2x.png build/emulator/DueDil\ Search.app/icon-small@2x.pngeace23aa63eeb841^771324aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon-small@2x.png00348c3addffdf42^1046"CpResource DueDil\ Search/Resources/icons/icon-small@2x.png build/emulator/DueDil\ Search.app/icon-small@2x.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon-small@2x.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"2D9376A8-9D3C-4A1A-8345-68CFB37CEE64-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon.png build/emulator/DueDil\ Search.app/icon.png
+s418276266.132630
+e418276266.135200
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon.png
+xbuild/emulator/DueDil Search.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/DueDil Search.app/icon.png93"CpResource DueDil\ Search/Resources/icons/icon.png build/emulator/DueDil\ Search.app/icon.png3e0722aa63eeb841^e49e22aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon.png00348c3addffdf42^1019"CpResource DueDil\ Search/Resources/icons/icon.png build/emulator/DueDil\ Search.app/icon.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"4E0FE77D-74AB-405D-90F5-C348023A3050-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/icons/icon@2x.png build/emulator/DueDil\ Search.app/icon@2x.png
+s418276266.133837
+e418276266.135781
+r1
+xCpResource
+xDueDil Search/Resources/icons/icon@2x.png
+xbuild/emulator/DueDil Search.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/DueDil Search.app/icon@2x.png99"CpResource DueDil\ Search/Resources/icons/icon@2x.png build/emulator/DueDil\ Search.app/icon@2x.png797922aa63eeb841^bfd522aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/icon@2x.png00348c3addffdf42^1028"CpResource DueDil\ Search/Resources/icons/icon@2x.png build/emulator/DueDil\ Search.app/icon@2x.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/icons/icon@2x.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"C01B960D-EA6A-48C7-A400-4CC7884289C5-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/splash/Default-568h@2x~iphone.png build/emulator/DueDil\ Search.app/Default-568h@2x~iphone.png
+s418276266.141897
+e418276266.144143
+r1
+xCpResource
+xDueDil Search/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/DueDil Search.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/DueDil Search.app/Default-568h@2x~iphone.png130"CpResource DueDil\ Search/Resources/splash/Default-568h@2x~iphone.png build/emulator/DueDil\ Search.app/Default-568h@2x~iphone.png7d9124aa63eeb841^b3ed24aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/Default-568h@2x~iphone.png00348c3addffdf42^1075"CpResource DueDil\ Search/Resources/splash/Default-568h@2x~iphone.png build/emulator/DueDil\ Search.app/Default-568h@2x~iphone.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/splash/Default-568h@2x~iphone.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"7ACB4C09-440A-40E1-99AA-708EE6E2C5FF-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape@2x~ipad.png
+s418276266.138802
+e418276266.140657
+r1
+xCpResource
+xDueDil Search/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/DueDil Search.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/emulator/DueDil Search.app/Default-Landscape@2x~ipad.png136"CpResource DueDil\ Search/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape@2x~ipad.png2aa923aa63eeb841^500124aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/Default-Landscape@2x~ipad.png00348c3addffdf42^1084"CpResource DueDil\ Search/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape@2x~ipad.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/splash/Default-Landscape@2x~ipad.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"6BD010DD-3DD5-474D-A486-AF4BEA842916-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/splash/Default-Landscape~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape~ipad.png
+s418276266.139041
+e418276266.140269
+r1
+xCpResource
+xDueDil Search/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/DueDil Search.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/DueDil Search.app/Default-Landscape~ipad.png130"CpResource DueDil\ Search/Resources/splash/Default-Landscape~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape~ipad.png0cb023aa63eeb841^d5ea23aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/Default-Landscape~ipad.png00348c3addffdf42^1075"CpResource DueDil\ Search/Resources/splash/Default-Landscape~ipad.png build/emulator/DueDil\ Search.app/Default-Landscape~ipad.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/splash/Default-Landscape~ipad.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"0F08174C-80A5-4B4E-8D2A-85A44774740D-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait@2x~ipad.png
+s418276266.139293
+e418276266.140710
+r1
+xCpResource
+xDueDil Search/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/DueDil Search.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/emulator/DueDil Search.app/Default-Portrait@2x~ipad.png134"CpResource DueDil\ Search/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait@2x~ipad.png65c223aa63eeb841^011724aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/Default-Portrait@2x~ipad.png00348c3addffdf42^1081"CpResource DueDil\ Search/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait@2x~ipad.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/splash/Default-Portrait@2x~ipad.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"4584954D-B90B-47DF-9921-5957E6CF7769-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/splash/Default-Portrait~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait~ipad.png
+s418276266.140144
+e418276266.141254
+r1
+xCpResource
+xDueDil Search/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/DueDil Search.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/DueDil Search.app/Default-Portrait~ipad.png128"CpResource DueDil\ Search/Resources/splash/Default-Portrait~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait~ipad.pngbdfb23aa63eeb841^3d2824aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/Default-Portrait~ipad.png00348c3addffdf42^1072"CpResource DueDil\ Search/Resources/splash/Default-Portrait~ipad.png build/emulator/DueDil\ Search.app/Default-Portrait~ipad.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/splash/Default-Portrait~ipad.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"DF4DEFA5-9648-4C76-8B9E-7C8E6000C783-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/splash/Default@2x~iphone.png build/emulator/DueDil\ Search.app/Default@2x~iphone.png
+s418276266.141029
+e418276266.142546
+r1
+xCpResource
+xDueDil Search/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/DueDil Search.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/emulator/DueDil Search.app/Default@2x~iphone.png120"CpResource DueDil\ Search/Resources/splash/Default@2x~iphone.png build/emulator/DueDil\ Search.app/Default@2x~iphone.png9b3924aa63eeb841^2c8124aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/Default@2x~iphone.png00348c3addffdf42^1060"CpResource DueDil\ Search/Resources/splash/Default@2x~iphone.png build/emulator/DueDil\ Search.app/Default@2x~iphone.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/splash/Default@2x~iphone.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"43278E4D-1CA0-4DA5-BBDB-E2CE576F99DF-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CCpResource DueDil\ Search/Resources/splash/Default~iphone.png build/emulator/DueDil\ Search.app/Default~iphone.png
+s418276266.141588
+e418276266.142936
+r1
+xCpResource
+xDueDil Search/Resources/splash/Default~iphone.png
+xbuild/emulator/DueDil Search.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/DueDil Search.app/Default~iphone.png114"CpResource DueDil\ Search/Resources/splash/Default~iphone.png build/emulator/DueDil\ Search.app/Default~iphone.pngba6824aa63eeb841^0b9824aa63eeb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app/Default~iphone.png00348c3addffdf42^1051"CpResource DueDil\ Search/Resources/splash/Default~iphone.png build/emulator/DueDil\ Search.app/Default~iphone.png    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Resources/splash/Default~iphone.png /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"15CE507F-CC3B-4036-96B9-0B35B56FD9AF-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CGenerateDSYMFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app.dSYM /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search
+s418276268.520346
+e418276268.610670
+r1
+xGenerateDSYMFile
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/DueDil Search
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM104"GenerateDSYMFile build/emulator/DueDil\ Search.app.dSYM build/emulator/DueDil\ Search.app/DueDil\ Searchbf4385ac63eeb841^b0579cac63eeb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app.dSYM00348c3addffdf42^1035"GenerateDSYMFile build/emulator/DueDil\ Search.app.dSYM build/emulator/DueDil\ Search.app/DueDil\ Search    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app.dSYM36"E4D38D3E-7C95-4D85-831F-BD1DFC81E428-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CLd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search normal i386
+s418276268.356641
+e418276268.519573
+r1
+xLd
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/DueDil Search
+xnormal
+xi386
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/DueDil Search.LinkFileList
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/main.o
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/AppDelegate.o
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/DueDil Search63"Ld build/emulator/DueDil\ Search.app/DueDil\ Search normal i386a65e5bac63eeb841^ef0285ac63eeb841^---0#0#1#--2192"Ld build/emulator/DueDil\ Search.app/DueDil\ Search normal i386    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -F/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -filelist /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/DueDil\ Search.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/DueDil\ Search_dependency_info.dat -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search36"EEFB9960-A269-453B-8872-BA91D53551BC-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CPhaseScriptExecution Copy\ www\ directory /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh
+s418276265.841118
+e418276266.131123
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.271s
+ouser	0m0.101s
+osys	0m0.154s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"PhaseScriptExecution Copy\ www\ directory build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.shc092d7a963eeb841^799121aa63eeb841^-42"real	0m0.271suser	0m0.101ssys	0m0.154s3(21%IDEActivityLogMessage2@14"real	0m0.271s-418276266#1#14#-0#-----2@14"user	0m0.101s-418276266#15#14#-0#-----2@13"sys	0m0.154s-418276266#29#13#-0#-----0#0#1#--402"PhaseScriptExecution Copy\ www\ directory build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    /bin/sh -c \"/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh\"36"9A851577-C93A-4036-BF4F-7E39EB8EAD18-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CProcessInfoPlistFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/Info.plist /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/DueDil\ Search-Info.plist
+s418276265.838142
+e418276265.840119
+r1
+xProcessInfoPlistFile
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Info.plist
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Process /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Info.plist106"ProcessInfoPlistFile build/emulator/DueDil\ Search.app/Info.plist DueDil\ Search/DueDil\ Search-Info.plist3ca2d6a963eeb841^a81cd7a963eeb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/DueDil%20Search-Info.plist0000000000000000^1142"ProcessInfoPlistFile build/emulator/DueDil\ Search.app/Info.plist DueDil\ Search/DueDil\ Search-Info.plist    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/DueDil\ Search-Info.plist -genpkginfo /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/Info.plist36"63D21F8B-B835-42FF-B257-6DACAE3744FA-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CProcessPCH /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.pch DueDil\ Search/DueDil\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418276268.058715
+e418276268.286526
+r1
+xProcessPCH
+x/var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil Search-Prefix.pch.pch
+xDueDil Search/DueDil Search-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile DueDil Search/DueDil Search-Prefix.pch316"ProcessPCH /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.pch DueDil\ Search/DueDil\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d1d0fac63eeb841^105c49ac63eeb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/DueDil%20Search-Prefix.pch0000000000000000^4378"ProcessPCH /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.pch DueDil\ Search/DueDil\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-generated-files.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-own-target-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-all-target-headers.hmap -iquote /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DueDil\ Search-project-headers.hmap -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/UninstalledProducts/include -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources/i386 -I/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/DerivedSources -F/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator --serialize-diagnostics /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.d -c /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/DueDil\ Search-Prefix.pch -o /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.pch36"33641B67-B5A0-484A-B87D-02B0C4C254E1-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+
+CTouch /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app
+s418276268.612054
+e418276268.617278
+r1
+xTouch
+x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Touch /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app39"Touch build/emulator/DueDil\ Search.app40be9cac63eeb841^70079eac63eeb841^---0#0#1#--773"Touch build/emulator/DueDil\ Search.app    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"A4078253-3A66-43C7-B2F3-55EE0C9D263A-
+bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+

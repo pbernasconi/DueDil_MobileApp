@@ -1,10 +1,12 @@
-
 angular.module('starter', ['ionic', 'starter.services', 'starter.controllers'])
+
+.config(['$httpProvider', function($httpProvider) {
+  delete $httpProvider.defaults.headers.common["X-Requested-With"];
+}])
 
 .config(function($stateProvider, $urlRouterProvider) {
 
   $stateProvider
-
     .state('tab', {
       url: "/tab",
       abstract: true,
@@ -43,4 +45,3 @@ angular.module('starter', ['ionic', 'starter.services', 'starter.controllers'])
   $urlRouterProvider.otherwise('/tab/search');
 
 });
-

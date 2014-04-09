@@ -11,9 +11,6 @@
     <img class="ionic-logo" ng-hide="status" src="img/duedil_Icon.png">
 
     <ion-list ng-show="status == 200">
-      <div class="item item-divider">
-        <small>Results</small>
-      </div>
 
       <ion-item ng-repeat="company in companies.response.data" type="item-text-wrap" href="#/tab/search/{{company.company_number}}">
         <h3>{{company.name}}</h3>

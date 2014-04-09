@@ -7,16 +7,20 @@ angular.module('starter.services', [])
   return {
     search : function(companyName) {
       return $http({
-        url: 'http://api.duedil.com/open/search?q='+ companyName +'&api_key=' + apiKey,
+        url: 'http://localhost:8888/DueDil_MobileApp/www/test.php?action=searchCompany&companyName=' + companyName,
+        //url: 'http://api.duedil.com/open/search?q='+ companyName +'&api_key=' + apiKey,
         method: 'GET'
       })
     },
 
-    detail : function(companyName) {
+    detail : function(companyNumber) {
       return $http({
-        url: 'http://api.duedil.com/open/uk/company/'+ companyName + '?api_key=' + apiKey,
+        url: 'http://localhost:8888/DueDil_MobileApp/www/test.php?action=getCompany&companyID=' + companyNumber,
+        //url: 'http://api.duedil.com/open/uk/company/'+ companyNumber + '?api_key=' + apiKey,
         method: 'GET'
       })
     }
   }
 });
+
+
