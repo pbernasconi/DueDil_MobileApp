@@ -1,10 +1,9 @@
-
 angular.module('starter', ['ionic', 'starter.services', 'starter.controllers'])
+
 
 .config(function($stateProvider, $urlRouterProvider) {
 
   $stateProvider
-
     .state('tab', {
       url: "/tab",
       abstract: true,
@@ -43,4 +42,3 @@ angular.module('starter', ['ionic', 'starter.services', 'starter.controllers'])
   $urlRouterProvider.otherwise('/tab/search');
 
 });
-

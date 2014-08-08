@@ -1,5 +1,5 @@
-89cd14b20f3f04eb653ef4c3c60a1f76 3c135a63461f55408ccec923dc9f4566 ffffffffffffffffffffffffffffffff 1020 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app
-00000000533e2c280000000000000a16 e32e6248df2f0a06103c6ec5f28ff359 ffffffffffffffffffffffffffffffff 0 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/PkgInfo
+e0095ae19feee0b4b7cc2d3bb0183d57 3c135a63461f55408ccec923dc9f4566 ffffffffffffffffffffffffffffffff 1020 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app
+000000005351b0fd0000000000000a16 e32e6248df2f0a06103c6ec5f28ff359 ffffffffffffffffffffffffffffffff 0 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/PkgInfo
 00000000533e2c210000000000002dba 981c636c4e9c75ea5edbdef454b1f300 ffffffffffffffffffffffffffffffff 11706 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-72@2x.png
 00000000533e2c210000000000003b9e cabade263380b37ba2d4b5288f33dc66 ffffffffffffffffffffffffffffffff 15262 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-76@2x.png
 00000000533e2c21000000000000258b c0dfb6af16edf056045a34175c943c78 ffffffffffffffffffffffffffffffff 9611 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-50@2x.png
@@ -24,8 +24,8 @@
 00000000533e2c210000000000001350 2bb1a48c6ba0ba001f40a0072c83576e ffffffffffffffffffffffffffffffff 4944 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-72.png
 00000000533e2c210000000000001cf3 14217bf53921d86c96c2570923b7f4bc ffffffffffffffffffffffffffffffff 7411 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-40@2x.png
 00000000533e2c210000000000001b71 9ba1d2c0dd2357806a2d87088140e502 ffffffffffffffffffffffffffffffff 7025 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/icon-76.png
-e9d7062082964aa2a6e72b3619458275 586d2e84f082b3eb039ac9dcb541e111 ffffffffffffffffffffffffffffffff 0 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM
-00000000533e2c280000000000000a16 e32e6248df2f0a06103c6ec5f28ff359 ffffffffffffffffffffffffffffffff 1296 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Info.plist
+80134873122832287415f2ce6f57a054 586d2e84f082b3eb039ac9dcb541e111 ffffffffffffffffffffffffffffffff 102 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM
+000000005351b0fd0000000000000a16 e32e6248df2f0a06103c6ec5f28ff359 ffffffffffffffffffffffffffffffff 1296 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Info.plist
 69c44e53c3f7ee00d2f2d9f8777aa405 633d2a3bcd70828c64299c0b9cb0df3f ffffffffffffffffffffffffffffffff 281288 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/DueDil Search
 ddd8cae98eed65964d6a6d97a1fa07ac 86f1526de083034d531b49627f3dfd98 ffffffffffffffffffffffffffffffff 50824 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/MainViewController.o
 ddd8cae98eed65964d6a6d97a1fa0673 1bc4c2cc18af64258dd20652ff86f1f9 ffffffffffffffffffffffffffffffff 74012 /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Objects-normal/i386/AppDelegate.o

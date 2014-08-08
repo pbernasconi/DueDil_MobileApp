@@ -3,8 +3,8 @@ v6
 r1
 cCheck dependencies
 cCpHeader Classes/NSDictionary+Extensions.h /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-cCpHeader Classes/NSData+Base64.h /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
 cCpHeader Classes/CDVInvokedUrlCommand.h /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
 cCpHeader Classes/CDVPluginResult.h /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
 cCpHeader Classes/CDVPlugin.h /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
 cCpHeader Classes/CDVDebug.h /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
@@ -381,108 +381,108 @@ t1396583465
 s9220
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDV.h
-t2
-s0
+t1396583464
+s1302
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-t2
-s0
+t1396583464
+s3293
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-t2
-s0
+t1396583464
+s2234
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-t2
-s0
+t1396583464
+s1205
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-t2
-s0
+t1396583464
+s1283
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
-t2
-s0
+t1396583464
+s1227
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
-t2
-s0
+t1396583464
+s1025
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-t2
-s0
+t1396583464
+s2022
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
-t2
-s0
+t1396583464
+s986
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
-t2
-s0
+t1396583464
+s1743
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-t2
-s0
+t1396583464
+s2194
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-t2
-s0
+t1396583464
+s3091
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-t2
-s0
+t1396583464
+s1032
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVShared.h
-t2
-s0
+t1396583464
+s998
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
-t2
-s0
+t1396583464
+s909
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
-t2
-s0
+t1396583464
+s1052
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
-t2
-s0
+t1396583464
+s1057
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-t2
-s0
+t1396583464
+s2764
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
-t2
-s0
+t1396583464
+s1442
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-t2
-s0
+t1396583464
+s1204
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
-t2
-s0
+t1396583464
+s914
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
-t2
-s0
+t1396583464
+s893
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-t2
-s0
+t1396583464
+s1498
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-t2
-s0
+t1396583464
+s928
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
-t2
-s0
+t1396583464
+s1142
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/libCordova.a
-t2
-s0
+t1396583465
+s863424
 
 N/var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-gvyzjgkkhkhgoucfeanfncsxqehb/CordovaLib_Prefix.pch.pch
 t1396583465
@@ -490,7 +490,7 @@ s3239340
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesac39a0a863eeb841^13d5c3a863eeb841^---0#1#1#--18"Check dependencies36"E629A907-B19C-489F-A6EE-E11FC54FEC30-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies32c8297ee801b941^e76e537ee801b941^---0#1#1#--18"Check dependencies36"E0E5EFC5-8361-4264-99BF-629550C3A7AA-
 
 CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s418276265.397496

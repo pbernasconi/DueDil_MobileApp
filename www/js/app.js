@@ -1,8 +1,5 @@
 angular.module('starter', ['ionic', 'starter.services', 'starter.controllers'])
 
-.config(['$httpProvider', function($httpProvider) {
-  delete $httpProvider.defaults.headers.common["X-Requested-With"];
-}])
 
 .config(function($stateProvider, $urlRouterProvider) {
 

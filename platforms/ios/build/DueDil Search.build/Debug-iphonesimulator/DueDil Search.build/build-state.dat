@@ -51,10 +51,25 @@ c00000000533AEEE2000000000000019E
 t1396371170
 s414
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000533AEEE20000000000484210
+t1396371170
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000533AEEE20000000000098030
+t1396371170
+s622640
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
 c00000000533AEEE20000000000059340
 t1396371170
 s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533AEEE300000000005B82F0
+t1396371171
+s5997296
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 c00000000533AEEE30000000000446820
@@ -66,15 +81,180 @@ c00000000533AEEE200000000000F1A80
 t1396371170
 s989824
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000533AEEE3000000000013B8C0
+t1396371171
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533AEEE3000000000088D8C0
+t1396371171
+s8968384
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
 c00000000533AEEE400000000001BE790
 t1396371172
 s1828752
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533AEEE60000000001F1DE10
+t1396371174
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000533AEEEA00000000002BC360
+t1396371178
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533AEEED0000000000002338
+t1396371181
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000533AEEEE000000000008D370
+t1396371182
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533AEEEE0000000000392E20
+t1396371182
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000530D7B4800000000000141F0
+t1393392456
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533AEEEE0000000000014A80
+t1396371182
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533AEEEE0000000000033BA0
+t1396371182
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000533AEEEE000000000001CFB0
+t1396371182
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000533AEEEE000000000001B2B0
+t1396371182
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000533AEEEE00000000000C9570
+t1396371182
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533AEEEE0000000000063280
+t1396371182
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533AEEEE0000000000008880
+t1396371182
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533AEEEE0000000000015080
+t1396371182
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000533AEEEE00000000000230F0
+t1396371182
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000533AEEEE000000000000E380
+t1396371182
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533AEEEE0000000000089380
+t1396371182
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533AEEEE0000000000017320
+t1396371182
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533AEEEE0000000000039CD0
+t1396371182
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000533AEEEE000000000000B0B0
+t1396371182
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533AEEEE0000000000167E80
+t1396371182
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000533AEEEE00000000000106A0
+t1396371182
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000533AEEEE000000000001CE40
+t1396371182
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000533AEEEE00000000000740C0
+t1396371182
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000533AEEEE000000000006CA60
+t1396371182
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000533AEEEE000000000001BAD0
+t1396371182
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533AEEEE0000000000084A20
+t1396371182
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c00000000533AEEF0000000000000BB48
+t1396371184
+s47944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000533AEEF0000000000000514C
+t1396371184
+s20812
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/AppDelegate.h
+c00000000533E2C2100000000000005BF
+t1396583457
+s1471
+
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/AppDelegate.m
 c00000000533E2C2100000000000013B1
 t1396583457
 s5041
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.h
+c00000000533E2C2100000000000004D3
+t1396583457
+s1235
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/Classes/MainViewController.m
 c00000000533E2C21000000000000126E
@@ -87,8 +267,8 @@ t1396583457
 s5977
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Info.plist
-c00000000533E2C280000000000000A16
-t1396583464
+c000000005351B0FD0000000000000A16
+t1397862653
 s2582
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Prefix.pch
@@ -239,12 +419,12 @@ t1396583465
 s45
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app
-t1396583468
+t1397862654
 s1020
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM
-t2
-s0
+t1396583468
+s102
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Default-568h@2x~iphone.png
 t1396583466
@@ -279,7 +459,7 @@ t1396583468
 s281288
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Info.plist
-t1396583465
+t1397862654
 s1296
 
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/MainViewController.nib
@@ -354,10 +534,195 @@ N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/Du
 t1396583466
 s7869
 
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+c00000000533E2C280000000000000CDD
+t1396583464
+s3293
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+c00000000533E2C2800000000000008BA
+t1396583464
+s2234
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+c00000000533E2C2800000000000004B5
+t1396583464
+s1205
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+c00000000533E2C280000000000000503
+t1396583464
+s1283
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+c00000000533E2C2800000000000007E6
+t1396583464
+s2022
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+c00000000533E2C280000000000000892
+t1396583464
+s2194
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+c00000000533E2C280000000000000C13
+t1396583464
+s3091
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000533E2C280000000000000408
+t1396583464
+s1032
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+c00000000533E2C280000000000000ACC
+t1396583464
+s2764
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+c00000000533E2C2800000000000004B4
+t1396583464
+s1204
+
+N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c00000000533E2C2800000000000003A0
+t1396583464
+s928
+
 N/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/libCordova.a
 c00000000533E2C2900000000000D2CC0
 t1396583465
 s863424
+
+N/usr/lib/libSystem.B.dylib
+c000000005271FC1D000000000000E6D0
+t1383201821
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005271FC290000000000012A00
+t1383201833
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005271FC11000000000002E320
+t1383201809
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005271FC1D0000000000021860
+t1383201821
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005271FC29000000000001B620
+t1383201833
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005271FC2900000000000BD920
+t1383201833
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005271FC29000000000000A120
+t1383201833
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530D7B48000000000001D550
+t1393392456
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005271FC290000000000014EE0
+t1383201833
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005271FC2B0000000000010380
+t1383201835
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005271FC2B000000000000C4C0
+t1383201835
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005271FC2900000000000357A0
+t1383201833
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005271FC29000000000000C070
+t1383201833
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530D7B150000000000168D00
+t1393392405
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000530D7B410000000000010630
+t1393392449
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530D7B48000000000001DF10
+t1393392456
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005271FC1D0000000000075B00
+t1383201821
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530D7B15000000000007CCE0
+t1393392405
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005271FC1D00000000000766C0
+t1383201821
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530D7B480000000000044DC0
+t1393392456
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005271FC1D0000000000021FA0
+t1383201821
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530D7B48000000000002D920
+t1393392456
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005271FC2A000000000001E570
+t1383201834
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000530D7B30000000000000CC70
+t1393392432
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005271FC25000000000000C3F0
+t1383201829
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005271FC2A00000000000199F0
+t1383201834
+s104944
 
 N/var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil Search-Prefix.pch.pch
 t1396583468
@@ -365,7 +730,7 @@ s5374312
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb133d5a963eeb841^0b60d6a963eeb841^---0#1#1#--18"Check dependencies36"E5554FEE-5C0F-4AEF-8E6C-D66A74F37635-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies95d2577ee801b941^b2d95d7ee801b941^---0#1#1#--18"Check dependencies36"E232C0D0-1717-4251-ABEB-64EB2CB273DF-
 
 CCompileC build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Objects-normal/i386/AppDelegate.o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s418276268.287393
@@ -677,14 +1042,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy bu
 bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
 
 CGenerateDSYMFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app.dSYM /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search
-s418276268.520346
-e418276268.610670
+s419555454.697150
+e419555454.787386
 r1
 xGenerateDSYMFile
 x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM
 x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/DueDil Search
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM104"GenerateDSYMFile build/emulator/DueDil\ Search.app.dSYM build/emulator/DueDil\ Search.app/DueDil\ Searchbf4385ac63eeb841^b0579cac63eeb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app.dSYM00348c3addffdf42^1035"GenerateDSYMFile build/emulator/DueDil\ Search.app.dSYM build/emulator/DueDil\ Search.app/DueDil\ Search    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app.dSYM36"E4D38D3E-7C95-4D85-831F-BD1DFC81E428-
-bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app.dSYM104"GenerateDSYMFile build/emulator/DueDil\ Search.app.dSYM build/emulator/DueDil\ Search.app/DueDil\ Search3788b27ee801b941^af94c97ee801b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil%20Search.app.dSYM/0000000000000000^1035"GenerateDSYMFile build/emulator/DueDil\ Search.app.dSYM build/emulator/DueDil\ Search.app/DueDil\ Search    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app.dSYM36"86DA97B6-A7A8-4D48-9F97-F147979343A6-
+b8F66C76C-DA57-4220-836F-F4406FDF3DBC
 
 CLd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/DueDil\ Search normal i386
 s418276268.356641
@@ -767,28 +1132,28 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /
 bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
 
 CPhaseScriptExecution Copy\ www\ directory /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh
-s418276265.841118
-e418276266.131123
+s419555454.370677
+e419555454.654186
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil Search.build/Debug-iphonesimulator/DueDil Search.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m0.271s
-ouser	0m0.101s
-osys	0m0.154s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"PhaseScriptExecution Copy\ www\ directory build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.shc092d7a963eeb841^799121aa63eeb841^-42"real	0m0.271suser	0m0.101ssys	0m0.154s3(21%IDEActivityLogMessage2@14"real	0m0.271s-418276266#1#14#-0#-----2@14"user	0m0.101s-418276266#15#14#-0#-----2@13"sys	0m0.154s-418276266#29#13#-0#-----0#0#1#--402"PhaseScriptExecution Copy\ www\ directory build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    /bin/sh -c \"/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh\"36"9A851577-C93A-4036-BF4F-7E39EB8EAD18-
-bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+oreal	0m0.261s
+ouser	0m0.096s
+osys	0m0.155s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"PhaseScriptExecution Copy\ www\ directory build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.shaf775f7ee801b941^4eb3a87ee801b941^-42"real	0m0.261suser	0m0.096ssys	0m0.155s3(21%IDEActivityLogMessage2@14"real	0m0.261s-419555454#1#14#-0#-----2@14"user	0m0.096s-419555454#15#14#-0#-----2@13"sys	0m0.155s-419555454#29#13#-0#-----0#0#1#--402"PhaseScriptExecution Copy\ www\ directory build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    /bin/sh -c \"/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/DueDil\ Search.build/Debug-iphonesimulator/DueDil\ Search.build/Script-304B58A110DAC018002A0835.sh\"36"3B7D8CD5-8B85-4B4D-AF2D-C2B3CFD1B1FF-
+b8F66C76C-DA57-4220-836F-F4406FDF3DBC
 
 CProcessInfoPlistFile /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/Info.plist /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/DueDil\ Search-Info.plist
-s418276265.838142
-e418276265.840119
+s419555454.366686
+e419555454.369791
 r1
 xProcessInfoPlistFile
 x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app/Info.plist
 x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Process /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Info.plist106"ProcessInfoPlistFile build/emulator/DueDil\ Search.app/Info.plist DueDil\ Search/DueDil\ Search-Info.plist3ca2d6a963eeb841^a81cd7a963eeb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/DueDil%20Search-Info.plist0000000000000000^1142"ProcessInfoPlistFile build/emulator/DueDil\ Search.app/Info.plist DueDil\ Search/DueDil\ Search-Info.plist    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/DueDil\ Search-Info.plist -genpkginfo /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/Info.plist36"63D21F8B-B835-42FF-B257-6DACAE3744FA-
-bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Process /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil Search/DueDil Search-Info.plist106"ProcessInfoPlistFile build/emulator/DueDil\ Search.app/Info.plist DueDil\ Search/DueDil\ Search-Info.plist18235e7ee801b941^6daa5e7ee801b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil%20Search/DueDil%20Search-Info.plist0000000000000000^1142"ProcessInfoPlistFile build/emulator/DueDil\ Search.app/Info.plist DueDil\ Search/DueDil\ Search-Info.plist    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/DueDil\ Search/DueDil\ Search-Info.plist -genpkginfo /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app/Info.plist36"21B91773-31E6-4AC0-865D-8FE73F7BCA2F-
+b8F66C76C-DA57-4220-836F-F4406FDF3DBC
 
 CProcessPCH /var/folders/3t/why_8dkd7q3dxq16k7tl0hkh0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/DueDil\ Search-Prefix-aaouamlnbxatwrcgtqhnktxrpzhs/DueDil\ Search-Prefix.pch.pch DueDil\ Search/DueDil\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s418276268.058715
@@ -806,11 +1171,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precomp
 bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
 
 CTouch /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app
-s418276268.612054
-e418276268.617278
+s419555454.788504
+e419555454.796158
 r1
 xTouch
 x/Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Touch /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app39"Touch build/emulator/DueDil\ Search.app40be9cac63eeb841^70079eac63eeb841^---0#0#1#--773"Touch build/emulator/DueDil\ Search.app    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"A4078253-3A66-43C7-B2F3-55EE0C9D263A-
-bA2E2DD19-8B20-4683-9B5A-03AFFC0A2798
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Touch /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil Search.app39"Touch build/emulator/DueDil\ Search.appd4f0c97ee801b941^ddd1cb7ee801b941^---0#0#1#--773"Touch build/emulator/DueDil\ Search.app    cd /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/heroku/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/paolob/Desktop/Projects/DueDil_MobileApp/platforms/ios/build/emulator/DueDil\ Search.app36"33F666F2-3B16-4911-A4AF-9249722989C8-
+b8F66C76C-DA57-4220-836F-F4406FDF3DBC
 

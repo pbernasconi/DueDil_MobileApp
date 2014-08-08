@@ -7,7 +7,7 @@ angular.module('starter.services', [])
   return {
     search : function(companyName) {
       return $http({
-        url: 'http://mobile-duedil.rhcloud.com/DueDil_MobileApp/www/test.php?action=searchCompany&companyName=' + companyName,
+        url: 'http://mobile-duedil.rhcloud.com/test.php?action=searchCompany&companyName=' + companyName,
         //url: 'http://api.duedil.com/open/search?q='+ companyName +'&api_key=' + apiKey,
         method: 'GET'
       })
@@ -15,7 +15,7 @@ angular.module('starter.services', [])
 
     detail : function(companyNumber) {
       return $http({
-        url: 'http://mobile-duedil.rhcloud.com/DueDil_MobileApp/www/test.php?action=getCompany&companyID=' + companyNumber,
+        url: 'http://mobile-duedil.rhcloud.com/test.php?action=getCompany&companyID=' + companyNumber,
         //url: 'http://api.duedil.com/open/uk/company/'+ companyNumber + '?api_key=' + apiKey,
         method: 'GET'
       })
